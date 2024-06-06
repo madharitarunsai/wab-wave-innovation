@@ -12,7 +12,7 @@ Project Demo URL: https://webwave.z13.web.core.windows.net/
 
 Demo Video URL: https://youtu.be/dBkeH2jz1WU
 
-GitHub Repository URL: https://github.com/VantakuGracy/StudentCourseExplorer/tree/main
+GitHub Repository URL: https://github.com/madharitarunsai/wab-wave-innovation
 
 Industry: Education
 
